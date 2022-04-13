@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gwangbaekun">
 
 <!--
 **gwangbaekun/gwangbaekun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,13 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<p>✨안녕하세요 프론트엔드 개발자를 꿈꾸는 안진희입니다 ☺️✨</p>
+<p>✨Hello there, I am Front-end developer Gwangbaekun☺️✨</p>
 
 ## About Me 👻
-> <p><i>Don’t repeat yourself Keep It Simple, Stupid. You Ain't Gonna Need It</i></p>
-<a harf="https://anggom.notion.site/JINI-Cool-and-Fun-f556431bd9e34d68b86a06a22d2a3f4a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="display:inline-block"/></a>
-
-
 
 <h2>Skill💪</h2>
 
