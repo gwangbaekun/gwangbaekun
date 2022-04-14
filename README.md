@@ -61,9 +61,9 @@ I am a front-end developer from South-Korea.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Mac에서 Gem::FilePermissionErrorGithub 블로그 생성기 -1](https://macgle.wordpress.com/2022/04/14/mac%ec%97%90%ec%84%9c-gemfilepermissionerrorgithub-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%83%9d%ec%84%b1%ea%b8%b0-1/)
 - [Project] POUG day~end](https://macgle.wordpress.com/2022/04/09/project-poug-dayend/)
 - [Project] POUG` day29,30](https://macgle.wordpress.com/2022/03/26/project-poug-day2930/)
 - [Project] POUG` day 28](https://macgle.wordpress.com/2022/03/24/project-poug-day-28/)
-- [Project] POUG day27](https://macgle.wordpress.com/2022/03/23/project-poug-day27/)
 <!-- BLOG-POST-LIST:END -->
 
