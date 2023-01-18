@@ -62,9 +62,10 @@ I am a front-end developer from South-Korea.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Algolia, Fuzzy search, elastic search](https://gwangbaekun.github.io/algolia,/fuzzy/search,/elastic/search/2022/11/15/Fuzzy-Search.html)
-- [Next.JS](https://gwangbaekun.github.io/next.js,/ssr,/seo/2022/09/13/Next.JS.html)
-- [Node.JS](https://gwangbaekun.github.io/nodejs/npm/yarn/2022/06/12/Node-JS.html)
+- [Mac에서 Gem::FilePermissionErrorGithub 블로그 생성기 -1](https://macgle.wordpress.com/2022/04/14/mac%ec%97%90%ec%84%9c-gemfilepermissionerrorgithub-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%83%9d%ec%84%b1%ea%b8%b0-1/)
+- [Project] POUG day~end](https://macgle.wordpress.com/2022/04/09/project-poug-dayend/)
+- [Project] POUG` day29,30](https://macgle.wordpress.com/2022/03/26/project-poug-day2930/)
+- [Project] POUG` day 28](https://macgle.wordpress.com/2022/03/24/project-poug-day-28/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gwangbaekun)](https://solved.ac/gwangbaekun/)
